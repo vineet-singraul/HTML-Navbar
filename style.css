@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main_parent{
+    width: 100vw;
+    height: 80px;
+    background-color: gray;
+}
+
+.navbar{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+span{
+    color: green;
+}
+
+.ul{
+    display: flex;
+    gap: 40px;
+}
+
+.ul li a{
+    color: azure;
+    text-decoration: none;
+}
+
+li{
+    text-decoration: none;
+}
